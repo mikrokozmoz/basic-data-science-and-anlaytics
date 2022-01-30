@@ -1,4 +1,8 @@
+<div align="center"><img src="https://mydmi.imgix.net/v3blog/8-Ways-to-Extract-Value-from-Customer-Data---Blog.jpg?crop=edges&fit=crop&fm=jpg&h=1260&ixlib=php-3.3.1&q=40&w=2400&s=f7b1393a54b235bec393171bdbb7032a"></div>
+
 # Data Science Basics - Kaiyu MU
+
+I created this repo to collect the useful resources while I am preparing myself to be a better data scientist. I hope this repo could help more people like me.
 <br>
 
 ## Part I: Data Science Bloggs (Updated Jan 2022)
