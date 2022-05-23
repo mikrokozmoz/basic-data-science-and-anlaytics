@@ -20,6 +20,7 @@ I created this repo to collect the useful resources while I am preparing myself 
 6. **Tableau:** Data Scientist [Skills Badge](https://www.tableau.com/learn/learning-paths/data-scientist)
 7. **Coursera:** IBM Machine Learning Professional [Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 8. **Coursera:** Univeristy of Washington Machine Learning [Specialization](https://www.coursera.org/specializations/machine-learning)
+
 The IBM Machine Learning Professional Certificate is a new certificate I found on Coursera, I reviewed the syllabus and found it is more focusing on applying regressions and classification machine learning models. Thus, I think it should be a good reference for data scientists. If you don't need a certificate to build your careers, it is also useful to take other machine learning courses on Coursera. Here I recommend the [Stanford](https://www.coursera.org/learn/machine-learning#about) course, which explain machine learning more thoroughly.
 
 ## Part III: Useful Repos
