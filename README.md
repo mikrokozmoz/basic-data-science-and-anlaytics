@@ -31,15 +31,3 @@ This [repository](https://github.com/academic/awesome-datascience) contains the 
 ### Data Science IPython Notebooks
 
 This [forked repository](https://github.com/imlucasmu/data-science-ipython-notebooks) contains sample notebooks to the commonly used packages for data science modeling. I am trying to use these notebooks to practice train different types of machine learning models. I am referring to these notebook for the following Python packages and modelings.
-
-**Packages**
-1. Scikit-Learn
-2. Keras
-3. Tensorflow
-4. XGBoost
-
-**Models**
-1. K-Means
-2. MLP
-3. Random Forest
-4. XGBoost
